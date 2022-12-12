@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Install all the dependencies of your application.\
+Install all the dependencies of your application.
 
 ### `npm start`
 
@@ -22,8 +22,8 @@ You may also see any lint errors in the console.
 
 ### `docker build -t your-image-name .`
 
-Build the docker image from the dockerfile.\
+Build the docker image from the dockerfile.
 
 ### `docker run -p your-port:3000 your-image-name`
 
-Run your docker image in the specified port that you have configured.\
+Run your docker image in the specified port that you have configured.
