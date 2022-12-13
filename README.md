@@ -4,7 +4,7 @@ This project was about note combine with meeting.
 
 ## Action Status
 
-![Workflow](https://github.com/trongbaby0108/noteMeetFrontend/actions/workflows/ci.yml/badge.svg)
+CI: ![Workflow](https://github.com/trongbaby0108/noteMeetFrontend/actions/workflows/ci.yml/badge.svg)
 
 ## Available Scripts
 
