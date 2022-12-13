@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Note Meet FrontEnd
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was about note combine with meeting.
+
+## Action Status
+
+Continues Integration: \
+![Workflow](https://github.com/trongbaby0108/noteMeetFrontend/actions/workflows/ci.yml/badge.svg)
 
 ## Available Scripts
 
