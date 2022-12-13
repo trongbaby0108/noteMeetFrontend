@@ -13,6 +13,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v1 
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v1
         with:
           node-version: 16
@@ -20,3 +22,5 @@ jobs:
         run: npm install
       - name: Create test build
         run: npm run build
+      - name: Run prettier
+        run: npm run prettier
