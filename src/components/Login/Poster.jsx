@@ -33,7 +33,11 @@ function Poster() {
           <PlayArrowIcon sx={{ typography: { md: 'h3', lg: 'h2' } }} />
           Digital platform for distance <span style={{ color: 'black' }}>Working</span>
         </Typography>
-        <Typography sx={{ typography: { md: 'h6', lg: 'h5' } }} display="flex" alignItems="center">
+        <Typography
+          sx={{ typography: { md: 'h6', lg: 'h5' } }}
+          display="flex"
+          alignItems="center"
+        >
           <Emoji unified="1f4aa" emojiStyle={EmojiStyle.APPLE} size={20} /> Work Smart
           Don't Work Hard{' '}
           <Emoji unified="1f4aa" emojiStyle={EmojiStyle.APPLE} size={20} />
