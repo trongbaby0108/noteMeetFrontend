@@ -43,9 +43,14 @@ function Login() {
                 width={75}
                 style={{ paddingBottom: '6vh' }}
               />
-              <Typography variant="h3">
-                Hey, hello!{' '}
-                <Emoji unified="1f44b" emojiStyle={EmojiStyle.APPLE} size={35} />
+              <Typography variant="h3" display="flex" alignItems="center">
+                Hey, hello!
+                <Emoji
+                  unified="1f44b"
+                  emojiStyle={EmojiStyle.APPLE}
+                  size={35}
+                  class="flex"
+                />
               </Typography>
               <Typography variant="caption" color="#b9a9a9" gutterBottom>
                 Enter the information you entered while registering!
