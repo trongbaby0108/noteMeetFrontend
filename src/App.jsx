@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import logo from './logo.svg'
 import './App.css'
 
@@ -18,6 +19,14 @@ function App() {
           Test CI
         </a>
       </header>
+=======
+import './App.css'
+import Login from './pages/Login/Login'
+function App() {
+  return (
+    <div className="App">
+      <Login />
+>>>>>>> parent of a32e3ee (upload)
     </div>
   )
 }
